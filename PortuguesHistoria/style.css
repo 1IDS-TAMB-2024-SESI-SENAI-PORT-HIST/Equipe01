@@ -1,0 +1,33 @@
+body {
+    background-image: none;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal; 
+    font-size: 10px;
+}
+h1 {
+    font-size: 35px;
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 0, 191);
+    text-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+    letter-spacing: 1px;
+    padding: 10px;
+    background-color: #993399;
+    border: 2px solid #993399;
+    border-radius: 12px;
+    display: inline-block;
+}
+button{
+    cursor: pointer;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease;
+    display: block;
+    background-color: aquamarine;
+    border: 5px solid aquamarine
+    border-radius: 22px;
+}
+inupt [email]{
+
+}
+
